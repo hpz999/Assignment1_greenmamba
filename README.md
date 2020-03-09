@@ -3,6 +3,11 @@
 %load_ext autoreload
 %autoreload 2
 
-# Definding the model:
-def u(x1,x2,alpha=0.5, beta=1)
-# Questions
+# Defining the model:
+x=3*5
+print(x)
+
+
+# Spørgsmål til underviser tirsdag
+# layout/opsætning hvordan er der mulighed for at gøre dette i Vs code?
+# kører/tjekker, er det i jupyterlab at det skal gøres?
